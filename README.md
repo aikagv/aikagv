@@ -9,12 +9,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-e89313.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### SOCIAL
+#### SOCIAL
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-25a3e1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/annagvozdeva)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-0173f6?style=for-the-badge&logo=Vk)](https://vk.com/a_ika)
 
-### ABOUT ME 
+#### ABOUT ME 
 ---
 :books: ***I'm currently studying Vadim Ksendzov's QA-courses***
 
