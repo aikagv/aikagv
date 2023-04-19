@@ -15,5 +15,5 @@
 ---
 :books: ***I'm currently studying Vadim Ksendzov's QA-courses***
 
-:docs: ***Graduated from the Skillbox Quality Control Engineer training course***
+:book: ***Graduated from the Skillbox Quality Control Engineer training course***
 
