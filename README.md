@@ -14,6 +14,7 @@
 #### SOCIAL
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-25a3e1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/annagvozdeva)
+[![Linkedin](https://img.shields.io/badge/linkedin-0966c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-gvozdeva-4318a3277/)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-0173f6?style=for-the-badge&logo=Vk)](https://vk.com/a_ika)
 
 #### ABOUT ME 
