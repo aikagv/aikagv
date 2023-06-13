@@ -8,6 +8,7 @@
 ![VSC](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-0066b8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 [![Postman](https://img.shields.io/badge/Postman-fe6c37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/aikagv/postman)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648c.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/aikagv/sql)
 ![MySQL](https://img.shields.io/badge/MySQL-e89313.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
