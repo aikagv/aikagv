@@ -12,6 +12,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-e89313.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-0e3754.svg?style=for-the-badge&logo=TestRail&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6f2bf4.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 #### SOCIAL
 ---
 [![Telegram](https://img.shields.io/badge/Telegram-25a3e1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/annagvozdeva)
