@@ -1,4 +1,7 @@
-
+### Hi there, I'm Anna :wave:
+---
+#### :page_with_curl: [MY CV ](https://aikagv.github.io/resume/) 
+___
 #### TOOLS
 ---
 
