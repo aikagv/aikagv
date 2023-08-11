@@ -10,7 +10,7 @@ ___
 ___
 #### TOOLS
 
-![DevTools](https://img.shields.io/badge/DevTools-db3a2c?style=for-the-badge&logo=DEVTOOLS&logoColor=white)
+[![DevTools](https://img.shields.io/badge/DevTools-db3a2c?style=for-the-badge&logo=DEVTOOLS&logoColor=white)](https://github.com/aikagv/devtools)
 [![Terminal](https://img.shields.io/badge/Terminal-00485B.svg?style=for-the-badge&logo=iterm2&logoColor=white)](https://github.com/aikagv/terminal)
 [![Git](https://img.shields.io/badge/git-e84e32.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/aikagv/git_hub)
 ![VSC](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-0066b8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
