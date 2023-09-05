@@ -22,6 +22,8 @@ ___
 ![Redmine](https://img.shields.io/badge/Redmine-cf4637.svg?style=for-the-badge&logo=Redmine&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-0e3754.svg?style=for-the-badge&logo=TestRail&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6f2bf4.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Cisco AnyConnect](https://img.shields.io/badge/Cisco%20AnyConnect-2cc5ad.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Microsoft Remote Desktop](https://img.shields.io/badge/Microsoft%20Remote%20Desktop-cb4524.svg?style=for-the-badge&logo=microsoft-remote-desktop&logoColor=white)
 ___
 #### SOCIAL
 [![Telegram](https://img.shields.io/badge/Telegram-25a3e1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/annagvozdeva)
