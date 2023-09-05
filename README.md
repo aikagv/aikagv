@@ -19,6 +19,7 @@ ___
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648c.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/aikagv/sql)
 ![MySQL](https://img.shields.io/badge/MySQL-e89313.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Redmine](https://img.shields.io/badge/Redmine-cf4637.svg?style=for-the-badge&logo=Redmine&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-0e3754.svg?style=for-the-badge&logo=TestRail&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6f2bf4.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ___
